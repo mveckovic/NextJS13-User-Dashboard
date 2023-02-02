@@ -1,4 +1,4 @@
-This is simple NextJS13-User-Dashboard  -  biuld with TailwindCSS and ChartJs
+This is simple NextJS13-User-Dashboard  -  biuld with TailwindCSS and ChartJs 
 
 
 ![nextjs13 -user dashboard](https://user-images.githubusercontent.com/88614730/215253675-55360b80-7a67-40e0-985a-4dad1f63a6c0.png)
